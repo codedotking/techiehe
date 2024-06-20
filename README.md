@@ -12,7 +12,7 @@
 <code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
-### 📫 Reach me:
+### 📫 Concat me:
 
 - **QQ** : 574980606
 - **WeChat** : 19941208872
@@ -21,7 +21,7 @@
 
 ### 🏠 Blog:
 
-- **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
+- **[https://blog.huala.fun](https://blog.huala.fun)**
 
 ### 📊 Stats:
 
