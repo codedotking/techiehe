@@ -29,4 +29,4 @@
 
 ### 📈 Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techiehe&theme=react-dark)](https://github.com/techiehe/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.huala.fun/graph?username=techiehe&theme=react-dark)](https://github.com/techiehe/github-readme-activity-graph)
