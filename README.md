@@ -1,8 +1,7 @@
-<p align="center"><img width="100%" src="./assets/header.png" /></p>
 
-### Hi there, I am Li Jianan👋
+### Hi there, I am  full stack developer 👋
 
-> A Front end developer from **HangZhou, China**.
+> A full stack developer from ** China**.
 
 ### 🏗️ Learning:
 
