@@ -13,10 +13,7 @@
 
 ### 📫 Concat me:
 
-- **QQ** : 574980606
-- **WeChat** : 19941208872
-- **Phone** : 19941208872
-- **E-mail** : 574980606@qq.com
+- **E-mail** : huala.fun@outlook.com
 
 ### 🏠 Blog:
 
