@@ -1,7 +1,5 @@
 
-### Hi there, I am  full stack developer 👋
-
-> A full stack developer from ** China**.
+### Hi there, I am a full stack developer 👋
 
 ### 🏗️ Learning:
 
