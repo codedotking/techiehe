@@ -15,7 +15,7 @@
 
 ### 🏠 Blog:
 
-- **[https://blog.huala.fun](https://blog.huala.fun)**
+ **[https://blog.huala.fun](https://blog.huala.fun)**
 
 ### 📊 Stats:
 
